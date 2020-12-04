@@ -1,0 +1,14 @@
+const String LoginAction = "/u-consultation/auth/login";
+const String SignUpActionURL = "/u-consultation/auth/register";
+const String QuickLoginActionUrl = "/u-consultation/auth/login";
+const String ForgotPasswordURL ="/u-consultation/auth/resend-phone-otp";
+const String VerifyPhoneURL ="/u-consultation/auth/login";
+const String ChangePasswordURL ="/u-consultation/auth/change-password";
+const String ocrURL ="http://3.139.34.137:8585/HWOCR";
+const String SavePatientURL ="/u-consultation/patient";
+const String SubscribeUrl ="/u-consultation/subscribe";
+const String PatientsUrl ="/u-consultation/patient";
+const String DashBoardUrl ="/api/v0/user/{userID}/dashboard";
+const String MyFoldersUrl ="/api/v0/user/{userID}/myFolders";
+const String NewFolderUrl ="/api/v0/user/{userID}/newFolder";
+const String SharedPatientsUrl ="/api/v0/user/{userID}/sharedPatients";
